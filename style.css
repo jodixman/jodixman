@@ -1,0 +1,136 @@
+.head{
+    text-align: center;
+}
+
+body{
+    
+    background-color:#1E1E1E;
+    color: white;    
+}
+
+.image{
+
+float:left;
+position:relative;
+left:150px;
+top:15px;
+}
+
+.image2{
+    float:right;
+    position:relative;
+    right:250px;
+    top:25px;
+}
+
+.image3{
+    float:right;
+    position:relative;
+    right:150px;
+    top:20px;
+}
+
+button{
+    
+    border: 2px solid transparent;
+    
+}
+
+a{
+    display: inline;
+    color: #ffffff;
+    font-size:20px;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    position:relative;
+    top: 30px;
+
+}
+
+.home{
+    position:relative;
+    right:50px;
+    
+}
+
+.discover{
+
+    position:relative;
+    left: 50px;
+}
+
+.text1{
+    clear:left;
+    position:relative;
+    top:200px;
+    left:200px;
+    color:#555555;
+    font-size: 25px;
+}
+
+.text2{
+    clear:left;
+    position:absolute;
+    top:220px;
+    left:200px;
+    color:white;
+    font-size: 100px;
+}
+
+.text3{
+    clear:left;
+    position:absolute;
+    top:330px;
+    left:200px;
+    color:white;
+    font-size: 100px;
+}
+
+.text4{
+    clear:left;
+    position:absolute;
+    top:450px;
+    left:200px;
+    color:white;
+    font-size: 100px;
+}
+
+.image4{
+    float:right;
+    position:relative;
+    right:150px;
+    top:85px;
+}
+
+input{
+    clear:left;
+    position:absolute;
+    top:700px;
+    left:200px;
+    color:white;
+    font-size: 50px;
+    border-radius:40px;
+    outline:none;
+    background:transparent;
+    border-color: #ffffff;
+}
+::placeholder{
+    font-size:20px;
+    padding:17px;
+    position:absolute;
+    left:20px;
+}
+
+.image5{
+    float:left;
+    position:relative;
+    left:200px;
+    top:700px;
+}
+
+.image6{
+    float:right;
+    position:relative;
+    left:500px;
+    top:700px;
+}
